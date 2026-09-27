@@ -62,5 +62,3 @@ Please refer to the root directory for additional user guides and manuals:
 - **Backend**: FastAPI, SQLModel, Uvicorn, PyTorch, EasyOCR, OpenCV, PyMuPDF, Pandas, MSAL.
 - **Frontend**: Next.js 16, React 19, Tailwind CSS 4, AG Grid, Lucide-React, Azure MSAL React.
 
-## License
-[MIT License]
